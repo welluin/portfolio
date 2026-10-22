@@ -1,6 +1,3 @@
-// ПРЕИМУЩЕСТВА / ЦИФРЫ В ФАКТАХ (STATS)
-// Цифры привлекают внимание и вызывают доверие.
-
 export default function Stats() {
   return (
     <section id="about" className="stats-section">

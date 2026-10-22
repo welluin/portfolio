@@ -1,5 +1,3 @@
-// ШАПКА САЙТА (HEADER)
-// Сюда выносим логотип, навигационные ссылки и быструю кнопку.
 export default function Header() {
   return (
     <header className="header">
@@ -11,7 +9,7 @@ export default function Header() {
         <nav className="nav-menu">
           <a href="#services">Навыки</a>
           <a href="#portfolio">Проекты</a>
-          <a href="#about">Обо мне</a>
+          <a href="#process">Обо мне</a>
           <a href="#contact">Контакты</a>
         </nav>
 

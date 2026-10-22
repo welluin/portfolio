@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 
-// Импортируем каждый кусочек нашего конструктора
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Stats from './components/Stats';

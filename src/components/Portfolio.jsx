@@ -1,5 +1,3 @@
-const GITHUB_URL = 'https://github.com/ТВОЙ-ЛОГИН';
-
 export default function Portfolio() {
   return (
     <section id="portfolio" className="portfolio-section">

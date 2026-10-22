@@ -20,15 +20,10 @@ export default function Contact() {
             Открыта к новым задачам, интересным идеям и возможности
             учиться на практике.
           </p>
-          
         </div>
 
         <div className="contact-form-card">
           <h3>Написать сообщение</h3>
-
-          <p className="form-subtitle">
-            
-          </p>
 
           <form onSubmit={handleSubmit}>
             <div className="form-group">

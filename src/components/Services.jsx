@@ -1,6 +1,3 @@
-// НАПРАВЛЕНИЯ / КАРТОЧКИ УСЛУГ (SERVICES)
-// Показываем, с какими категориями задач вы работаете.
-
 export default function Services() {
   return (
     <section id="services" className="services-section">

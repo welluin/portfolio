@@ -1,5 +1,3 @@
-// ПЕРВЫЙ ЭКРАН (HERO)
-// Самое важное место: за 3 секунды человек должен понять, о чем ваш сайт.
 export default function Hero() {
   return (
     <section id="top" className="hero-section">
